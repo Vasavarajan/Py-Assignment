@@ -1,7 +1,7 @@
 n=int(input("Enter the num"))
-sum=0
+total=0
 i = 1
 while i <=n :
-    sum =sum+i
+    total =total+i
     i=i+1
-print ("The sum is ",sum)
+print ("The total is ",total)
